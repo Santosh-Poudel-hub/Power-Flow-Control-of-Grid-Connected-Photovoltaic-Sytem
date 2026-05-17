@@ -33,9 +33,6 @@ PV Array → DC-DC Boost Converter → Three-Phase Inverter → Grid
 - Stable performance under varying sunlight conditions
 - Effective reactive power management
 
-## Power Flow
-![Power Flow](Power%20Flow.png)
-
 ## Current Harmonics (THD Analysis)
 ![Current Harmonics](Current%20Harmonics.png)
 
